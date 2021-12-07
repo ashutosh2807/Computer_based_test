@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/help.png</file>
+        <file>images/jiwaji.jpg</file>
+        <file>images/quit.png</file>
+        <file>images/download.jpg</file>
+        <file>images/pic.jpg</file>
+        <file>images/sign.png</file>
+        <file>images/gate.jpg</file>
+    </qresource>
+</RCC>
